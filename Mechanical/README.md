@@ -51,7 +51,7 @@ Side module
 
 ### Guide to 3D Prints
 [Bottom module](/Mechanical/Bottom%20Module)
-![Bottom Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-BottomModule.jpg)
+![Bottom Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-BottomModule.jpg)
 - B.01.A - Bottom Corner Connector, Left (1)
 - B.01.B - Bottom Corner Connector, Right (1)
 - B.02.A - Bottom Corner Connector, Door, Left (1)
@@ -67,7 +67,7 @@ Side module
 - B.10.B - Rivet, Large, for Wiring (1)
 
 [Middle module](/Mechanical/Middle%20Module)
-![Middle Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-MiddleModule.jpg)
+![Middle Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-MiddleModule.jpg)
 - M.01 - Middle Corner Connector (8)
 - M.02 - Air Sensor Bubble (1)
 - M.03.A - Frame Edge (6)
@@ -79,7 +79,7 @@ Side module
 - M.07 - Door Lock (2) [Locking and handle versions]
 
 [Top module](/Mechanical/Top%20Module)
-![Top Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-TopModule.jpg)
+![Top Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-TopModule.jpg)
 - T.01 - Top Corner Connector (4)
 - T.02.A - Lighting Board Mount (10)
 - T.02.B - Lighting Board Mount, Camera Holder (2)
@@ -87,7 +87,7 @@ Side module
 - T.04 - Top Edge Spacer (8)
 
 [Side module](/Mechanical/Side%20Module)
-![Side Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-SideModule.jpg)
+![Side Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-SideModule.jpg)
 - S.01 - Side Module Connector (16)
 - S.02.A - Nut Holder (16)
 - S.02.B - Nut Holder, Large (5)
