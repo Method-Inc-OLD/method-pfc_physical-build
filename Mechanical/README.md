@@ -6,8 +6,8 @@ The chassis is designed around a central 50cm3 acrylic chamber surrounded by a n
 The PFC is designed with 4 modules: Bottom, Middle, Top, and Side. Each module has a number of 3D printed connectors. This repository contains 3D Rhino files with individual 3D print blocks, and assemblies for each module as well as one overall assembly.
 
 ### Modules Guide
-![Full Overview, Front](/Documentation/ModuleOverview/mPFC-Model-Overview-Full-FrontView.jpg)
-![Back Overview, Front](/Documentation/ModuleOverview/mPFC-Model-Overview-Full-BackView.jpg)
+![Full Overview, Front](/Documentation/ModelOverview/mPFC-Model-Overview-Full-FrontView.jpg)
+![Back Overview, Front](/Documentation/ModelOverview/mPFC-Model-Overview-Full-BackView.jpg)
 Bottom module
 - Component Overview
 - Water reservoir
@@ -50,7 +50,7 @@ Side module
 
 
 ### Guide to 3D Prints
-[Bottom module](/Mechanical/Bottom\ Module)
+[Bottom module](/Mechanical/Bottom%20Module)
 ![Bottom Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-BottomModule.jpg)
 - B.01.A - Bottom Corner Connector, Left (1)
 - B.01.B - Bottom Corner Connector, Right (1)
@@ -66,7 +66,7 @@ Side module
 - B.10.A - Rivet, Small, for Tubing (2)
 - B.10.B - Rivet, Large, for Wiring (1)
 
-[Middle module](/Mechanical/Middle\ Module)
+[Middle module](/Mechanical/Middle%20Module)
 ![Middle Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-MiddleModule.jpg)
 - M.01 - Middle Corner Connector (8)
 - M.02 - Air Sensor Bubble (1)
@@ -78,7 +78,7 @@ Side module
 - M.06 - Door Hinge (2)
 - M.07 - Door Lock (2) [Locking and handle versions]
 
-[Top module](/Mechanical/Top\ Module)
+[Top module](/Mechanical/Top%20Module)
 ![Top Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-TopModule.jpg)
 - T.01 - Top Corner Connector (4)
 - T.02.A - Lighting Board Mount (10)
@@ -86,7 +86,7 @@ Side module
 - T.03 - Middle Support Cap
 - T.04 - Top Edge Spacer (8)
 
-[Side module](/Mechanical/Side\ Module)
+[Side module](/Mechanical/Side%20Module)
 ![Side Module Overview](/Documentation/ModuleOverview/mPFC-Model-Overview-SideModule.jpg)
 - S.01 - Side Module Connector (16)
 - S.02.A - Nut Holder (16)
