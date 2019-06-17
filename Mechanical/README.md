@@ -5,7 +5,7 @@ The chassis is designed around a central 50cm3 acrylic chamber surrounded by a n
 
 The PFC is designed with 4 modules: Bottom, Middle, Top, and Side. Each module has a number of 3D printed connectors. This repository contains 3D Rhino files with individual 3D print blocks, and assemblies for each module as well as one overall assembly.
 
-### Modules Guide
+### Modules
 ![Full Overview, Front](/Documentation/ModelOverview/mPFC-Model-Overview-Full-FrontView.jpg)
 ![Back Overview, Front](/Documentation/ModelOverview/mPFC-Model-Overview-Full-BackView.jpg)
 Bottom module
@@ -49,9 +49,9 @@ Side module
 
 
 
-### Guide to 3D Prints
-[Bottom module](/Mechanical/Bottom%20Module)
+## Guide to 3D Prints
 ![Bottom Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-BottomModule.jpg)
+### [Bottom module](/Mechanical/Bottom%20Module)
 - B.01.A - Bottom Corner Connector, Left (1)
 - B.01.B - Bottom Corner Connector, Right (1)
 - B.02.A - Bottom Corner Connector, Door, Left (1)
@@ -66,8 +66,8 @@ Side module
 - B.10.A - Rivet, Small, for Tubing (2)
 - B.10.B - Rivet, Large, for Wiring (1)
 
-[Middle module](/Mechanical/Middle%20Module)
 ![Middle Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-MiddleModule.jpg)
+### [Middle module](/Mechanical/Middle%20Module)
 - M.01 - Middle Corner Connector (8)
 - M.02 - Air Sensor Bubble (1)
 - M.03.A - Frame Edge (6)
@@ -78,22 +78,22 @@ Side module
 - M.06 - Door Hinge (2)
 - M.07 - Door Lock (2) [Locking and handle versions]
 
-[Top module](/Mechanical/Top%20Module)
 ![Top Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-TopModule.jpg)
+### [Top module](/Mechanical/Top%20Module)
 - T.01 - Top Corner Connector (4)
 - T.02.A - Lighting Board Mount (10)
 - T.02.B - Lighting Board Mount, Camera Holder (2)
 - T.03 - Middle Support Cap
 - T.04 - Top Edge Spacer (8)
 
-[Side module](/Mechanical/Side%20Module)
 ![Side Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-SideModule.jpg)
+### [Side module](/Mechanical/Side%20Module)
 - S.01 - Side Module Connector (16)
 - S.02.A - Nut Holder (16)
 - S.02.B - Nut Holder, Large (5)
 - S.03 - Safety Cover (1)
 
-Various
+### [Various](/Mechanical/Various)
 - V.01 - Screw Nut (8)
 - V.02 - Master Key (1)
 
