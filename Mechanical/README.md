@@ -65,6 +65,7 @@ Side module
 - B.09 - Name plate (1)
 - B.10.A - Rivet, Small, for Tubing (2)
 - B.10.B - Rivet, Large, for Wiring (1)
+---
 
 ![Middle Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-MiddleModule.jpg)
 ### [Middle module](/Mechanical/Middle%20Module)
@@ -77,6 +78,7 @@ Side module
 - M.05 - Circulation Fan Mount (1)
 - M.06 - Door Hinge (2)
 - M.07 - Door Lock (2) [Locking and handle versions]
+---
 
 ![Top Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-TopModule.jpg)
 ### [Top module](/Mechanical/Top%20Module)
@@ -85,6 +87,7 @@ Side module
 - T.02.B - Lighting Board Mount, Camera Holder (2)
 - T.03 - Middle Support Cap
 - T.04 - Top Edge Spacer (8)
+---
 
 ![Side Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-SideModule.jpg)
 ### [Side module](/Mechanical/Side%20Module)
@@ -92,6 +95,7 @@ Side module
 - S.02.A - Nut Holder (16)
 - S.02.B - Nut Holder, Large (5)
 - S.03 - Safety Cover (1)
+---
 
 ### [Various](/Mechanical/Various)
 - V.01 - Screw Nut (8)
