@@ -1,7 +1,8 @@
 # Bottom Module
 
+View these files as Rhino Source Files or STL files for 3D printing.
+
 ![Bottom Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-BottomModule.jpg)
-### [Bottom module](/Mechanical/Bottom%20Module)
 - B.01.A - Bottom Corner Connector, Left (1)
 - B.01.B - Bottom Corner Connector, Right (1)
 - B.02.A - Bottom Corner Connector, Door, Left (1)
@@ -15,7 +16,6 @@
 - B.09 - Name plate (1)
 - B.10.A - Rivet, Small, for Tubing (2)
 - B.10.B - Rivet, Large, for Wiring (1)
----
 
 ## Credits
 
