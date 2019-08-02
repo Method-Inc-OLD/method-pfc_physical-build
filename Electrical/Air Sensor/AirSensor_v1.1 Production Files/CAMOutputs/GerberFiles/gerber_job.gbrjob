@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-02-21T10:06:22Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PFC_Method_AirSens_V1"
+        },
+        "Owner": "Desreen Greet <desreen@method.com>",
+        "Size": {
+            "X": 38.735,
+            "Y": 24.765
+        }
+    }
+}
