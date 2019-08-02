@@ -65,6 +65,7 @@ Side module
 - B.09 - Name plate (1)
 - B.10.A - Rivet, Small, for Tubing (2)
 - B.10.B - Rivet, Large, for Wiring (1)
+- B.11 - Safety Cover (1)
 ---
 
 ![Middle Module Overview](/Documentation/ModelOverview/mPFC-Model-Overview-MiddleModule.jpg)
